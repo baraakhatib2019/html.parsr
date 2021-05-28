@@ -2,7 +2,7 @@
 {
     "id":1,
     "name": "Damas Center",
-    "daysOff": ['Friday', 'Saturday']
+    "daysOff": ['Friday', 'Saturday'],
     "openAt": "8",
     "closeAt": "16",
     "coordinates":{"latitude":"33.5118336","longitude":"36.2774528"}
@@ -10,7 +10,7 @@
 {
     "id":2,
     "name": "Aleppo Center",
-    "daysOff": ['Friday', 'Saturday']
+    "daysOff": ['Friday', 'Saturday'],
     "openAt": "8",
     "closeAt": "16",
     "coordinates":{"latitude":"33.5118336","longitude":"36.2774528"}
@@ -18,7 +18,7 @@
 {
     "id":3,
     "name": "Latakia Center",
-    "daysOff": ['Friday', 'Saturday']
+    "daysOff": ['Friday', 'Saturday'],
     "openAt": "8",
     "closeAt": "16",
     "coordinates":{"latitude":"33.5118336","longitude":"36.2774528"}
